@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 8,
+        "Name": "Carpenter",
+        "Short": "CRP"
+    },
+    {
+        "ID": 9,
+        "Name": "Blacksmith",
+        "Short": "BSM"
+    },
+    {
+        "ID": 10,
+        "Name": "Armorer",
+        "Short": "ARM"
+    },
+    {
+        "ID": 11,
+        "Name": "Goldsmith",
+        "Short": "GSM"
+    },
+    {
+        "ID": 12,
+        "Name": "Leatherworker",
+        "Short": "LTW"
+    },
+    {
+        "ID": 13,
+        "Name": "Weaver",
+        "Short": "WVR"
+    },
+    {
+        "ID": 14,
+        "Name": "Alchemist",
+        "Short": "ALC"
+    },
+    {
+        "ID": 15,
+        "Name": "Culinarian",
+        "Url": "CUL"
+    }
+]
